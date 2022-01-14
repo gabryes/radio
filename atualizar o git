@@ -1,0 +1,20 @@
+Logar no git
+git config --global user.name "João Silva"
+git config --global user.email "exemplo@seuemail.com.br"
+
+para ver o estatus
+git status 
+
+
+para adcionar localmente
+git add .
+
+dar o comit 
+git commit -m "nome qualquer"
+
+
+para ver se tem atualização no servidor git
+git pull origin main
+
+para enviar os arquivos ao servidor git
+git push origin main
